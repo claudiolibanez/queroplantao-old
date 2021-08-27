@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "825064735784",
+    "project_id": "quero-plantao-c75f7",
+    "storage_bucket": "quero-plantao-c75f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825064735784:android:0fbd78e6080206a91e211d",
+        "android_client_info": {
+          "package_name": "com.procoders.queroplantao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825064735784-dvsa4uta666665niognk5frb8akrvi14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.procoders.queroplantao",
+            "certificate_hash": "2de9e76c134553b4e15119118c0ad7b469e5279a"
+          }
+        },
+        {
+          "client_id": "825064735784-ktldkppelr28732ubu59qqr106t25s5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.procoders.queroplantao",
+            "certificate_hash": "5aa4a35de52d4188aea2d6a1d07094464b4e53ac"
+          }
+        },
+        {
+          "client_id": "825064735784-h8626pjrm4hqdcuput43qn9urefucnd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo6ZHFkfscvWI1JO6y3TUsK0E22OQhYkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825064735784-h8626pjrm4hqdcuput43qn9urefucnd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
